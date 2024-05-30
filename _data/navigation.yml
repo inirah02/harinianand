@@ -5,9 +5,6 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "Portfolio Projects"
     url: /portfolio/
@@ -19,8 +16,10 @@ main:
     url: /cv/
     
   - title: "Achievements"
-    url: /markdown/
+    url: /achievements/
 
-  - title: "Community Contribution"
-    url: /community/
+  - title: "Community Contributions "
+    url: /community/    
+
+
   
