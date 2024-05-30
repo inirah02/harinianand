@@ -12,7 +12,7 @@ title                    : "Harini Anand/Home"
 title_separator          : "-"
 name                     : &name "Harini Anand"
 description              : &description "CSE Undergrad interested in Clinical AI and Computational Cognition"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://inirah02.github.io/harinianand/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
